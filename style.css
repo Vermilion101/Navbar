@@ -1,0 +1,42 @@
+/*marvin*/
+.navbar{
+    background-color: #F7B32D ;
+    overflow: hidden;
+
+}
+
+.navbar a{
+    padding: 17px 20px;
+    text-decoration: none;
+    float: left;
+    font-size: 25px;
+    color:black;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color:#DE3C3C;
+    opacity:0.8;
+}
+
+.navbar input{
+
+    float: right;
+    padding-right: 20;
+    margin: 17px;
+    width:13rem;
+
+}
+.navbar i{
+ 
+    float: right;
+    
+    margin: 17px;   
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+

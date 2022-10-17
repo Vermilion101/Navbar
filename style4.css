@@ -1,0 +1,12 @@
+/*kristofer*/
+.mapContainer{
+    display: flex;
+    justify-content: center;
+}
+#map{
+    width: 1250px;
+    height: 650px;
+    border: 0px auto;
+    border-color: #e3e4e7;
+    border-width: 5.5px;
+}
